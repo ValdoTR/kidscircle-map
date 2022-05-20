@@ -68,12 +68,6 @@
          "id":68,
          "name":"to-childroom",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"exitUrl",
-                 "type":"string",
-                 "value":"\/@\/???"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":58,
