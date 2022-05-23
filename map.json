@@ -248,7 +248,12 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"{{{ videoconferenceURL }}}"
+                         "value":"https:\/\/kidscircle.whereby.com\/test"
+                        }, 
+                        {
+                         "name":"openWebsitePolicy",
+                         "type":"string",
+                         "value":"camera *; microphone *; display-capture *"
                         }],
                  "type":"tilelayer",
                  "visible":true,
